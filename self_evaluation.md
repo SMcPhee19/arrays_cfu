@@ -1,0 +1,3 @@
+- arrays feel good. Only hiccups weren't to do with arrays specifically. I just got a little mixed up in the terminal.
+- I want to work a little more with the methods of calling an array, push, shuffle, shift, unshift, etc. Some of the explanations given weren't as helpful as others that I found. 
+- When an array is shifted, do the values following the value that was shfited get their own array?
