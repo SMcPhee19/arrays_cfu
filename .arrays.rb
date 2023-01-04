@@ -19,3 +19,8 @@ random_array.unshift
 # for example:
 avs_players[1] 
 # would return with the name "MacKinnon" in the array used. 
+
+#New array method
+# there is a way to suffle the postions of everything in the array, just add `.shuffle` to the end of a chosen array
+# it will then return with a new combination of everything that is in the array.
+avs_players.shuffle
